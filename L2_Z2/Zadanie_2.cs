@@ -36,7 +36,6 @@ namespace L2_Z2
                     if (elementCounter == 1)//проверка на пустую послед-ть
                     {
                         Console.Write("Последовательность пустая => ");
-                        break;
                     }
                     break;
                 }
